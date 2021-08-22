@@ -11,4 +11,4 @@ Simple network speed test.
 cd PySpeedTest
 pip install PyQt5 speedtest-cli pyinstaller
 pyinstaller main.py --onefile --icon=icon.ico
-cd dist```
+cd dist
